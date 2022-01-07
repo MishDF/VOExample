@@ -13,7 +13,7 @@ function GoodPage() {
         <h2>Can you tell what is a heading</h2>
         <p>and what is a paragraph</p>
 
-        <img src="/thumbs-up.jpg" alt="Image of a thumbs up"/>
+        <img src="/thumbs-up.jpg" alt="Thumbs up"/>
 
         <h2>Using divs vs semantic HTML makes a difference</h2>
         <p>Try to think of this page as if you were only hearing it</p>

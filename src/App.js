@@ -12,7 +12,7 @@ function App() {
         <p>
           This site contains both a good and bad example of development for screenreaders.
         </p>
-        <small>It does not contain good css or design I'm sorry about the menu</small>
+        <small>(It also contains only very basic CSS &amp; design)</small>
       </main>
     </div>
   );
